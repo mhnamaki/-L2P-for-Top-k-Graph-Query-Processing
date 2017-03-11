@@ -4,11 +4,11 @@ This code is written in Java over Neo4j graph database framework in EECS departm
 
 Some datasets that we executed the code on and you can download are as follows:
 
-YAGO
+YAGO: https://drive.google.com/open?id=0B1viDsu2yavtemVUenZvOXhCWFU
 
-DBPedia
+DBPedia: https://drive.google.com/open?id=0B1viDsu2yavtUGM5Rno4MVNuYVU
 
-Freebase
+Freebase: https://drive.google.com/open?id=0B1viDsu2yavteXJ3TzJiTlplSEU
 
 
 
