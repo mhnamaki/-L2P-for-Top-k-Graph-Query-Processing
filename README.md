@@ -1,4 +1,4 @@
-# TopKGraphQuery
+# L2P for Top-k Graph Query Processing
 
 This code is written in Java over Neo4j graph database framework in EECS department of Washington State University.
 
