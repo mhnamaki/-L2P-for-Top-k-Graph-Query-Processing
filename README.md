@@ -2,10 +2,10 @@
 
 This code is written in Java over Neo4j graph database framework in EECS department of Washington State University.
 
-# Appendix of the paper -- List of Feature Set
+### Appendix of the paper -- List of Feature Set
 You may read more about the features we have used in https://github.com/mhnamaki/-L2P-for-Top-k-Graph-Query-Processing/blob/master/Appendix-FeatureSet.pdf
 
-# Datasets
+### Datasets
 Some datasets that we executed the code on and you can download are as follows:
 
 YAGO: https://drive.google.com/open?id=0B1viDsu2yavtemVUenZvOXhCWFU
